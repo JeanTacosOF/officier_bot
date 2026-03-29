@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cosmos-ait",
+  "private_key_id": "59c797378b8a1e1a178998bbf3eb4ba00466fc4f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC+5NNaaglLDZSC\nFhpzW6gACiAnSO9AThPAhhG3UNmxXl/68yaUdMhW2KrN7mJ9+nuLTzTfXlkpe+Zv\n6m35cd6wa2P4lWUg8LFflfPJtW7rF3KksuD2FMGuL6j1Zu18+nblgFz/eSjrDjmF\nkR1k9pWyx2iIxDiyfe8dUVYv7dchXwHUgEE/jna6+bAw5zzmVcjBZaywGsDnEmzJ\n8YsLMKz02cJandK1yfrxPc24NLg2K/Zgl1Lp4GwnVE3HB3C6+VjfTML2ds3m2GPG\nN4LAF8ritJyGDjzA1h5CgzAWqETzBxbAa0D3RZc/B0Wir/PiV9t0ZA05yFQKIOdd\np/FmCnqVAgMBAAECggEAB5RaCKjVgKDj6NG22tC6Ase5ehstFhO442KPY9ohIqfu\nzgMx4MrNmkEqcFh1ma9EkNtOwUsOOurxUzfu25eCsjo5Xck/cDI5C2S5VCTQ6CMQ\ntBW+1UEtZYdSlpfaeHq7a3u6yuav0hFzsD16+iNzqIW+vVDJODEZju5H//QvdWLY\n28jmr/9XAbxi9M+GmGna1Vy8cgEtkq2b+P069EbvyKkkZl2ACLPXLHUM/FeJ4KUM\nP7gf7dxp4PigXsaBDMMHEaDvygZPqGphIEBhTbBWV7jCSxWmQsdQTpScJd0kZcjg\n42VE2TD0i3iz+o0NoHkZEEdwkAR/ybEdKwaHeHXRWwKBgQD0Qc2NcVUX16AcrNkU\nzcwUQsQNPcqBodBkFMV27lVzpNLeAQisPfo9nRwxnZR2RFqc7GzRV9/sZPu+K4/M\nlrITb9sk0WgTQ8wav7aoN+IIRt5i24txbZAYt/xxFodBZGrnjhGlvoWQ5kBRyIND\nL5SQ+kHFJVYHNwzQNLLIm0Y88wKBgQDIEkEgOtUa5n39lRfXARh+vd28O06h9ZoN\nb8c6i6zdXglxo33tG/Qm9YA5RqHPYUXTLBUo2YoTX2RZbRwyu61KhPBv5M5J9CAe\n/PGKwYCTIoIokDuZWwWTGnKKF13/+TGOhBJSnxm9eJyBtPvkkxQ0WpH1O2pEvRV7\nR79YmwYsVwKBgQCXqNPsYtYm+6dapqgTFsUEP4BjiF5YpxQxUARbmBhOuaSEW7f6\n2nCqGQcMd39a/44TqWjXguxyZzE4HuwmZ9sh3m3/Klaov4vXf/n18NzTrs0eLJsk\nTpcOAg8oWIiavbLzG28xrl5YXd7J6Oo3qS9h5UE5G7mSuUenb1Ei5eZyqQKBgAl2\ns5Xusn3fQT5pewM0jhAQsxhgRcvrbioMi4P9b2PZOuEhNqesltPw8OvEp4rDsyXW\nA/o2sA1SidChFKBhuES6HRVt4UQmRA6zMEm79XUAQN/iUq9iWtUmfxyBFnUxOGLh\nZGx8Eh+gQObxxKh/PIltb1IGSXSO7SEzt51dV+FpAoGBAJT/0hCY/KhDn/QJzXaf\n0buEhNfEa91IbfRdVacOjiXjJxu0SkSpptyL16RHihKFhG/MDxiK7rDvpyXXlXHJ\nagoPAPPe3B5sCDGCfvWD1h+3h/AgM7yCx1yUt1cQ/+Sb9DpTjVfaQBkqmpsd1HtG\n6ozfcVE6YWnTZ5s6jOf5QuGJ\n-----END PRIVATE KEY-----\n",
+  "client_email": "bot-sheet-ait-off@cosmos-ait.iam.gserviceaccount.com",
+  "client_id": "117511871860460180164",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bot-sheet-ait-off%40cosmos-ait.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
